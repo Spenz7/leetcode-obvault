@@ -2,5 +2,7 @@
   "obsidian-style-settings",
   "tabs",
   "dynamic-theme-background",
-  "bases-paginator"
+  "bases-paginator",
+  "obsidian-git",
+  "templater-obsidian"
 ]
