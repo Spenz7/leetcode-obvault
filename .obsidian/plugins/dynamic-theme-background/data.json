@@ -2,7 +2,7 @@
   "enabled": true,
   "statusBarEnabled": true,
   "blurDepth": 0,
-  "brightness4Bg": 1,
+  "brightness4Bg": 1.5,
   "saturate4Bg": 1,
   "bgColorLight": "#c8c8c8",
   "bgColorOpacityLight": 0.32,
@@ -56,7 +56,7 @@
       "name": "夜晚",
       "startTime": "19:00",
       "endTime": "06:00",
-      "backgroundId": "1757342225416-0",
+      "backgroundId": "1780333770398oouv2el",
       "enabled": true
     }
   ],
@@ -98,9 +98,19 @@
       "name": "夜晚 (A day in the corner of the city)",
       "type": "image",
       "value": "bgs/A day in the corner of the city/夜晚.jpg"
+    },
+    {
+      "id": "1780333770398oouv2el",
+      "name": "fate_kobeBridge",
+      "type": "image",
+      "value": "bgs/Fate/fate_kobeBridge.jpg",
+      "brightness4Bg": 0.69,
+      "saturate4Bg": 1.04,
+      "bgColorOpacityDark": 0.36,
+      "bgSize": "intelligent"
     }
   ],
-  "currentIndex": 4,
+  "currentIndex": 6,
   "enableRandomWallpaper": true,
   "wallpaperApis": [
     {
